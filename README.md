@@ -88,7 +88,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yashovardhan-Singh&show_icons=true&count_private=true&theme=nord&hide_border=false" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yashovardhan-Singh&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="Yashovardhan-Singh's GitHub Stats" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashovardhan-Singh&theme=nord&show_icons=true&hide_border=false&layout=compact" alt="Yashovardhan-Singh's GitHub Stats" /></div>  
 
 <br/>  
 
