@@ -1,6 +1,4 @@
-
-### <div align="center">I'm Yash, a student and developer 👨‍💻 coding since 2013 🚀</div>  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=1000&center=true&vCenter=true&multiline=true&width=1600&height=300&lines=Yashovardhan+Singh;Believes+he+can+code.+(He+can't))](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Pong-GB](https://github.com/Yashovardhan-Singh/Pong-GB)  
   
