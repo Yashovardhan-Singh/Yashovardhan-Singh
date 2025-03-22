@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=1000&center=true&vCenter=true&multiline=true&width=1600&height=300&lines=Yashovardhan+Singh;Believes+he+can+code.+(He+can't))](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [CHIP-8 Emulator](https://github.com/Yashovardhan-Singh/chip8-emulator)  
+- 🔭 I’m currently working on [Skibidi OS](https://github.com/Yashovardhan-Singh/Skibidi-OS)  
   
 
-- 🌱 I’m currently learning SDL2 and x86_64 asssembly  
+- 🌱 I’m currently learning Operating Systems and x86_64 asssembly  
   
 
 - ❓ Ask me about anything related to Rust and Game Development  
