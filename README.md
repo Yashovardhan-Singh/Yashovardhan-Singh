@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=1000&center=true&vCenter=true&multiline=true&width=1600&height=300&lines=Yashovardhan+Singh;Believes+he+can+code.+(He+can't))](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Skibidi OS](https://github.com/Yashovardhan-Singh/Skibidi-OS)  
+- 🔭 I’m currently working on [Copse2D](https://github.com/Yashovardhan-Singh/Copse2D)  
   
 
-- 🌱 I’m currently learning Operating Systems and x86_64 asssembly  
+- 🌱 I’m currently Graphics Programming  
   
 
-- ❓ Ask me about anything related to Rust and Game Development  
+- ❓ Ask me about anything related to Rust, C, Systems, and Game Development  
   
 
 - ⚡ Fun fact: I don't like vim motions  
