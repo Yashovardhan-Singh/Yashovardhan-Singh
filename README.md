@@ -3,13 +3,13 @@
 - 🔭 I’m currently working on [Copse2D](https://github.com/Yashovardhan-Singh/Copse2D)  
   
 
-- 🌱 I’m currently Graphics Programming  
+- 🌱 I’m currently learning Graphics Programming  
   
 
-- ❓ Ask me about anything related to Rust, C, Systems, and Game Development  
+- ❓ Ask me about anything related to Rust, C, Assembly, Operating Systems, and Game Development  
   
 
-- ⚡ Fun fact: I don't like vim motions  
+- ⚡ Fun fact: I hate AI with a passion  
   
 
 <br/>  
